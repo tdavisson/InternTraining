@@ -1,7 +1,4 @@
-InternTraining
-==============
 _a collection of references for GIS Interns_
-
 <br>
 
 ##General  
