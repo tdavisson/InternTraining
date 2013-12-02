@@ -2,9 +2,17 @@ _a collection of references for GIS Interns_
 <br>
 
 ##General  
+
+**GitHub** create an account! https://github.com/  
+
+**GitHub Guides YouTube Channel** http://www.youtube.com/GitHubGuides
+
+**Git Basics** http://www.youtube.com/watch?v=8oRjP8yj2Wo
+
+**Codecademy** http://www.codecademy.com/ _focus on HTML, JavaScript, Python_
+
 **map school** http://macwright.org/mapschool/ _a free open introduction to geo_  
 
-##Various  
 **geo-how-to** https://github.com/nvkelso/geo-how-to/wiki _tips and tricks here are oriented to BYOD (bring your down data) mapping_
 
 ##GDAL
