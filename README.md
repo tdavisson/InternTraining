@@ -15,6 +15,9 @@ _a collection of references for GIS Interns_
 
 **geo-how-to** https://github.com/nvkelso/geo-how-to/wiki _tips and tricks here are oriented to BYOD (bring your down data) mapping_
 
+**geojson.io** https://github.com/mapbox/geojson.io _fast, simple map creation_ 
+http://geojson.io/
+
 ##GDAL
 **gdal-cheat-sheet** https://github.com/dwtkns/gdal-cheat-sheet _Cheat sheet for GDAL/OGR command-line tools_
 
